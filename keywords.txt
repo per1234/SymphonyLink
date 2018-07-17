@@ -16,7 +16,7 @@ transport_write	KEYWORD2
 transport_read	KEYWORD2
 compute_checksum	KEYWORD2
 recv_packet	KEYWORD2
-void send_packet	KEYWORD2
+send_packet	KEYWORD2
 hal_read_write	KEYWORD2
 ll_packet_recv	KEYWORD2
 ll_packet_recv_with_rssi	KEYWORD2
